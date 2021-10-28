@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mcorrea1/Star_rating_create_react_app/static/css/main.71d5b82f.chunk.css",
+    "main.js": "/mcorrea1/Star_rating_create_react_app/static/js/main.b737896a.chunk.js",
+    "main.js.map": "/mcorrea1/Star_rating_create_react_app/static/js/main.b737896a.chunk.js.map",
+    "runtime-main.js": "/mcorrea1/Star_rating_create_react_app/static/js/runtime-main.48ab610a.js",
+    "runtime-main.js.map": "/mcorrea1/Star_rating_create_react_app/static/js/runtime-main.48ab610a.js.map",
+    "static/js/2.04da958d.chunk.js": "/mcorrea1/Star_rating_create_react_app/static/js/2.04da958d.chunk.js",
+    "static/js/2.04da958d.chunk.js.map": "/mcorrea1/Star_rating_create_react_app/static/js/2.04da958d.chunk.js.map",
+    "index.html": "/mcorrea1/Star_rating_create_react_app/index.html",
+    "static/css/main.71d5b82f.chunk.css.map": "/mcorrea1/Star_rating_create_react_app/static/css/main.71d5b82f.chunk.css.map",
+    "static/js/2.04da958d.chunk.js.LICENSE.txt": "/mcorrea1/Star_rating_create_react_app/static/js/2.04da958d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48ab610a.js",
+    "static/js/2.04da958d.chunk.js",
+    "static/css/main.71d5b82f.chunk.css",
+    "static/js/main.b737896a.chunk.js"
+  ]
+}
